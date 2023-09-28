@@ -11,4 +11,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 ## CitiBike Tableau Dashboard
-CitiBike Ridership Dashboard for May And April 2023 can be found [here](https://public.tableau.com/app/profile/jae.zakarauskas/viz/CitiBikeAnalysis_16898848996080/CitiBikeStory). 
+Citi Bike Ridership Dashboard for May 2023 can be found [here](https://public.tableau.com/app/profile/jae.zakarauskas/viz/CitiBikeAnalysis_16898848996080/CitiBikeStory). Trip data used is for May 2023 and can be found [here](https://s3.amazonaws.com/tripdata/JC-202305-citibike-tripdata.csv.zip).
+
+### Top 20 Most Popular Starting and Ending Stations for May 2023
+This screenshot from the Tableau Dashboard shows the 20 most popular starting and ending stations using timestamp data for May 2023. Screenshots use map data from Mapbox and OpenStreetMap and their data sources. To learn more, visit https://www.mapbox.com/about/maps/ and http://www.openstreetmap.org/copyright. © <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>
